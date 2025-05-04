@@ -12,3 +12,11 @@ A command-line tool for analyzing text content, providing comprehensive statisti
 - 🔢 Average word and sentence length
 - 📄 Multiple output formats (standard, JSON, CSV)
 - 💾 Analyze files or text from stdin
+
+## 🚀 Installation
+
+1. Clone this repository:
+```bash
+git clone https://github.com/yourusername/text-analyzer.git
+cd text-analyzer
+```
