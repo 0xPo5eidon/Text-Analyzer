@@ -20,3 +20,21 @@ A command-line tool for analyzing text content, providing comprehensive statisti
 git clone https://github.com/yourusername/text-analyzer.git
 cd text-analyzer
 ```
+
+2. Make the script executable (Unix/Linux/macOS):
+```bash
+chmod +x main.py
+```
+
+## 🔍 Usage
+
+```bash
+python main.py [file] [options]
+```
+
+## ⚙️ Options
+
+file: Text file to analyze (optional, reads from stdin if not provided)
+- `-f, --format`: Output format (standard, json, csv)
+- `-s, --string`: Analyze a string directly
+
