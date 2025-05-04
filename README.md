@@ -17,7 +17,7 @@ A command-line tool for analyzing text content, providing comprehensive statisti
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/text-analyzer.git
+git clone https://github.com/0xPo5eidon/text-analyzer.git
 cd text-analyzer
 ```
 
