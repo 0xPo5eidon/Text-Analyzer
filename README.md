@@ -84,3 +84,24 @@ The Flesch Reading Ease score indicates the reading level of the text:
 | 30-49       | Difficult         | College level      |
 | 0-29        | Very Difficult    | Graduate level     |
 
+## 💡 Use Cases
+
+1. **Content Writing**: Check readability of articles and blog posts
+2. **Academic Writing**: Analyze complexity of research papers
+3. **SEO Optimization**: Ensure content meets target reading level
+4. **Editing**: Identify overused words and complex sentences
+5. **Language Learning**: Track vocabulary diversity
+6. **Writing Analysis**: Compare multiple documents statistically
+
+## 💡 Tips
+
+- Use the JSON output for integration with other tools
+- Combine with other Unix tools using pipes
+- For large files, consider text preprocessing first
+- The readability score works best with complete sentences
+- Word frequency helps identify content themes
+- Lexical diversity indicates vocabulary richness
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
